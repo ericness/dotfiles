@@ -1,0 +1,14 @@
+[battery]
+disabled = true
+
+[cmd_duration]
+disabled = true
+
+[kubernetes]
+disabled = false
+
+[python]
+pyenv_version_name = true
+
+[shell]
+disabled = false
